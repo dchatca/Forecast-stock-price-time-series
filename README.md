@@ -1,4 +1,4 @@
-# Time-Series-Group-6
+# Time-Series-Group-4
 
 ### This is the notebook for midterm time series reprort by Group 4, DSEB K62, NEU
 
